@@ -73,7 +73,7 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_555575ff)
+			(layerselection 0x00000000_00000000_55555555_575575ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -4564,14 +4564,15 @@
 			)
 		)
 	)
-	(gr_text "MULTIPLE FREQUENCY\nOSCILLATOR 3V3/5V\nOriginal- skum\nEdit- yaruni"
-		(at 154.875 88.8 0)
+	(gr_text "MULTIPLE FREQUENCY\nOSCILLATOR 3.3V/5V\nOriginal- skum\nEdit- yaruni\ngithub.com/owen-rp2a03/mfo"
+		(at 154.559 91.948 0)
 		(layer "B.SilkS")
 		(uuid "2c67758c-1042-47d1-abea-160b6adf4d44")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.7 0.7)
+				(thickness 0.125)
+				(bold yes)
 			)
 			(justify left top mirror)
 		)
@@ -4588,8 +4589,8 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "3.3V"
-		(at 145.175 98.675 90)
+	(gr_text "3V3"
+		(at 145.034 98.933 90)
 		(layer "B.SilkS")
 		(uuid "8f56cd6c-a6b5-4db9-9d22-eaf0b1cf29cf")
 		(effects
@@ -4622,6 +4623,18 @@
 				(thickness 0.2)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "Use only 1 source voltage, ensure correct one!"
+		(at 154.813 88.773 0)
+		(layer "B.SilkS")
+		(uuid "e825a756-ba54-491b-90be-1dfc4e7a654d")
+		(effects
+			(font
+				(size 0.7 0.5)
+				(thickness 0.125)
+			)
+			(justify left top mirror)
 		)
 	)
 	(segment
