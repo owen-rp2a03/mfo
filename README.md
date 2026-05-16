@@ -1,5 +1,5 @@
 # mfo
-Multi Frequency Oscillator kicad
+Multi Frequency Oscillator with 5 or 3.3 volt 
 
 This design has not been tested yet. Though, the board should be functionally the same; refer to the following links.
 
