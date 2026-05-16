@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDCE925PWR
+D Programmable 2-PLL VCXO Clock Synthesizer with 2.5-V or 3.3-V LVCMOS Outputs
+K
+F http://www.ti.com/lit/gpn/CDCE925
+$ENDCMP
+#
+#End Doc Library

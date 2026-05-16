@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CDCE925PWR")(type "KiCad")(uri "${KIPRJMOD}/CDCE925PWR/CDCE925PWR.kicad_sym")(options "")(descr ""))
+)
