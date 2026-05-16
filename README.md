@@ -1,5 +1,5 @@
 # mfo
-Multi Frequency Oscillator with 5 or 3.3 volt 
+Multi Frequency Oscillator with 5 or 3.3 volt supply
 
 This design has not been tested yet. Though, the board should be functionally the same; refer to the following links.
 
