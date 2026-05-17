@@ -1,6 +1,8 @@
 # mfo
 Multi Frequency Oscillator with 5 or 3.3 volt supply
 
+<img style="width:49%" src=images/board-top.png> 
+
 This design has not been tested yet. Though, the board should be functionally the same; refer to the following links.
 
 [original post about mfo](https://immerhax.com/?p=111)
